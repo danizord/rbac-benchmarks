@@ -1,0 +1,19 @@
+{
+    "name": "danizord/rbac-benchmarks",
+    "require": {
+        "athletic/athletic": "0.1.7",
+        "zfr/rbac": "dev-master@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Gimenes",
+            "email": "daniel@danielgimenes.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Danizord\\RbacBenchmarks\\": "src/"
+        }
+    }
+}
